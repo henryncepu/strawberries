@@ -4,17 +4,20 @@
 	    "phase": "picking",
 	    "status": "good",
 	    "message": "picking has finished"
+	    "history" :"27/04/2020"
 	},
 	{
 	    "product_ID": "s2",
 	    "phase": "packing",
 	    "status": "warning",
 	    "message": "packing is unsucessful"
+	    "history" :"21/03/2020"
 	},
 	{
 	    "product_ID": "s3",
 	    "phase": "packing",
 	    "status": "good",
 	    "message": "packing is now sucessful"
+	    "history" :"24/02/2020"
 	}
 ]
